@@ -1,6 +1,7 @@
 ![my gif](https://media1.tenor.com/images/250d812cabeff447b95582fd9cc0e199/tenor.gif?itemid=14295956)
-Here are some ideas to get you started:
-
+```bash
+https://www.linkedin.com/in/avinash-kr2/
+```
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
