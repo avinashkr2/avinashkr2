@@ -1,8 +1,5 @@
-## Hi there 👋
-
-<!--
-**avinashkr2/avinashkr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Avinash kumar
+![my gif}(https://media1.tenor.com/images/250d812cabeff447b95582fd9cc0e199/tenor.gif?itemid=14295956)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
