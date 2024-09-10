@@ -1,5 +1,4 @@
-Avinash kumar
-![my gif}(https://media1.tenor.com/images/250d812cabeff447b95582fd9cc0e199/tenor.gif?itemid=14295956)
+![my gif](https://media1.tenor.com/images/250d812cabeff447b95582fd9cc0e199/tenor.gif?itemid=14295956)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
